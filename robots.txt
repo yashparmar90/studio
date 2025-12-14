@@ -1,0 +1,11 @@
+# robots.txt for MemoryWave Studio
+# https://yashparmar90.github.io/studio/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yashparmar90.github.io/studio/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
